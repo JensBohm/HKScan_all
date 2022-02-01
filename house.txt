@@ -6,12 +6,12 @@
   t       t 
 r           t
 hhhhhhhhhhhhhhhh
-hh
-hh
-hh
-hh
-hhhhhhhhhhhhhhh
-e
+hh            hh 
+hh            hh 
+hh            hh
+hh            hh
+hhhhhhhhhhhhhhh 
+e              hh 
 e                PPPPPP
 e                o
 e                e
